@@ -21,7 +21,7 @@
   <img align="center" alt="Razi-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="Razi-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Razi-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="right" alt="razi-gif" height="150" width="150" src="https://cdn.discordapp.com/attachments/1243970525685088327/1356483485216280716/Untitled_design.gif?ex=67ecbb31&is=67eb69b1&hm=80b86a4144795242947d62de2145caa64b1504fad58e606e4920ad0bbb361ac5&"/>
+  <img align="right" alt="razi-gif" height="150" width="150" src="https://cdn.discordapp.com/attachments/1243970525685088327/1356483485216280716/Untitled_design.gif?ex=67fa92f1&is=67f94171&hm=b262d67581c6e8ee217482088e36de904a932bebd6284ac9b6e167326eed5ebc&"/>
 </div>
 
 ##
