@@ -1,34 +1,70 @@
-## Olá! Eu sou o Raziel. Bem-vindo!
+# 👋 Olá, eu sou Raziel Zanini
 
-- 🔭 Atualmente trabalho como desenvolvedor Fullstack  
-- 🌱 Estudando micro-serviços e CI/CD
-  
-<div>
-  <a href="https://github.com/RazielZanini/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RazielZanini&show_icons=true&theme=dark" />
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazielZanini&layout=compact&theme=dark" />
-</div>
+💻 Fullstack Developer com foco em backend e arquitetura de aplicações.
 
-<!-- align="center" alt="Razi-java" height="30" width="40" -->
-<div style="display: inline-block"><br>
-  <img align="center" alt="Razi-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Razi-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Razi-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Razi-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="Razi-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="Razi-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Razi-kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Razi-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="Razi-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Razi-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="right" alt="razi-gif" height="150" width="150" src="https://cdn.discordapp.com/attachments/1243970525685088327/1356483485216280716/Untitled_design.gif?ex=68407271&is=683f20f1&hm=48a8eef87685ed5421faeeb61a3ceb7c6e855353b3c70ce6636ed60f51ce7ba8&"/>
-</div>
+Atualmente desenvolvendo aplicações web utilizando React/Next.js no frontend e Java/Spring Boot no backend, com interesse especial em:
 
-##
+- 🧠 Tecnologia aplicada à produtividade e TDAH
+- ⚙️ APIs REST e arquitetura backend
+- 📊 Sistemas de gerenciamento e dashboards
+- 🤖 Inteligência Artificial e Redes Neurais
+- ☁️ Deploy, integração e automação
 
-<div> 
- <a href="https://discord.gg/fCrekwpxYH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:razielzanini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/zaniniraziel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
+
+## 🚀 Tecnologias
+
+### Frontend
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk)
+![Spring](https://img.shields.io/badge/-Spring_Boot-000?style=for-the-badge&logo=springboot)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+
+---
+
+# 📌 Projetos em destaque
+
+### 🧠 Sistema de BenchMarks covid19
+Sistema fullstack para criação de benchmarks comparativos de parâmetros e dados sobre a covid19 entre estados brasileiros
+
+**Stack** React • NextJs • TailwindCss • REST API • Ruby On Rails • MongoDB
+
+---
+
+### 💰 Sistema de controle financeiro
+Sistema fullstack para gerenciamento financeiro com dashboard, categorização de gastos e relatórios.
+
+**Stack:** React • Java Spring • REST API • PostgreSQL
+
+---
+
+### 🤖 Rede Neural para reconhecimento de padrões
+Projeto acadêmico utilizando uma Rede Neural Artificial implementada manualmente em Java Swing para reconhecimento de desenhos baseados em projeções gráficas.
+
+**Stack:** Java • Swing • IA • RNA
+
+
+---
+
+## 🌎 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:SEU_EMAIL)
+
+---
+
+> “Transformando ideias em aplicações reais.”
